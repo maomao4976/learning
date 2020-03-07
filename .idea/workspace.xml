@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4a5bf196-b017-4f25-80d8-3a21983be537" name="默认的" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1XTqNv6jLTVnBjflvJKY8Io08d7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="ignore.virus.scanning.warn.message" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4a5bf196-b017-4f25-80d8-3a21983be537" name="默认的" comment="" />
+      <created>1581080395962</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581080395962</updated>
+      <workItem from="1581080398064" duration="407000" />
+      <workItem from="1581080816617" duration="109000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="175" y="115" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581080647022">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="175" y="115" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.920@0.0.1440.920" timestamp="1581080647022" />
+    <state x="535" y="292" key="#com.intellij.ide.actions.DebugLogConfigureAction" timestamp="1581080520747">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="535" y="292" key="#com.intellij.ide.actions.DebugLogConfigureAction/0.0.1440.920@0.0.1440.920" timestamp="1581080520747" />
+    <state x="500" y="201" key="FileChooserDialogImpl" timestamp="1581080896763">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="500" y="201" key="FileChooserDialogImpl/0.0.1440.920@0.0.1440.920" timestamp="1581080896763" />
+    <state x="420" y="284" key="com.intellij.ide.util.TipDialog" timestamp="1581080820349">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="420" y="284" key="com.intellij.ide.util.TipDialog/0.0.1440.920@0.0.1440.920" timestamp="1581080820349" />
+  </component>
+</project>
