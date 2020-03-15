@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/helloPython.iml" filepath="$PROJECT_DIR$/.idea/helloPython.iml" />
       <module fileurl="file://$PROJECT_DIR$/python-book/.idea/python-book.iml" filepath="$PROJECT_DIR$/python-book/.idea/python-book.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../BaiduNetdiskDownload/答题系统代码/.idea/答题系统代码.iml" filepath="$PROJECT_DIR$/../BaiduNetdiskDownload/答题系统代码/.idea/答题系统代码.iml" />
     </modules>
   </component>
 </project>

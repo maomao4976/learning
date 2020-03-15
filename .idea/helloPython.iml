@@ -7,5 +7,6 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="python-book" />
+    <orderEntry type="module" module-name="答题系统代码" />
   </component>
 </module>
